@@ -13,8 +13,13 @@
   "devDependencies": {},
   "author": "Matt Wills <matt_wills8@outlook.com>",
   "license": "MIT",
-  "repository": {},
-  "bugs": {},
+  "repository": { 
+    "type" : "git", 
+    "url" : "https://github.com/mattwills8/gulp-mtime-correction"
+  },
+  "bugs": {
+    "url": "https://github.com/mattwills8/gulp-mtime-correction/issues"
+  },
   "keywords": [
     "gulpplugin",
     "mtime",
