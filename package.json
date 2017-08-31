@@ -1,6 +1,6 @@
 {
   "name": "gulp-mtime-correction",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Change the modification times of your files - helps with checking modification time for the same files on different servers in different time zones (eg for using gulp-newer for ftp transfers)",
   "main": "index.js",
   "scripts": {},
@@ -13,9 +13,9 @@
   "devDependencies": {},
   "author": "Matt Wills <matt_wills8@outlook.com>",
   "license": "MIT",
-  "repository": { 
-    "type" : "git", 
-    "url" : "https://github.com/mattwills8/gulp-mtime-correction"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mattwills8/gulp-mtime-correction"
   },
   "bugs": {
     "url": "https://github.com/mattwills8/gulp-mtime-correction/issues"
